@@ -22,12 +22,11 @@
 </head>
 
 <body class="bg-slate-400">
-    <div class="flex h-screen items-center justify-center">
-        <h1 class="text-6xl font-bold text-gray-800 shadow-lg shadow-blue-600">The Rat is coming!</h1>
+    <div class="flex h-screen flex-col items-center justify-center gap-6 text-center">
+        <h1 class="text-6xl font-bold text-gray-800 text-shadow-blue">The Rat is coming!</h1>
+        <p class="text-2xl font-semibold text-slate-900">Countdown: <span
+                class="text-blue-900">{{ $countdown }}</span></p>
     </div>
-
-
-
 
 </body>
 

@@ -9,3 +9,7 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
+
+@utility text-shadow-blue {
+    text-shadow: 8px 8px 4px rgba(30, 64, 175, 0.55);
+}
