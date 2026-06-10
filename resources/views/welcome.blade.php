@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ config('app.name', 'Rat 1.0') }}</title>
+    <title>'Rat 1.0'</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
