@@ -26,3 +26,7 @@ Homestead.yaml
 Thumbs.db
 Scotty.sh
 *.sqlite 
+.env.before_lerd
+.lerd.yaml
+.lerd.yaml.backup
+
